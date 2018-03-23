@@ -1,0 +1,13 @@
+#menu{ 
+    background-color: rgb(30, 142, 235);
+    width: 400px;
+    height: 200px;
+}
+.content{
+    background-color: rgb(49, 228, 102);
+    width: 400px;
+    height: 200px;
+}
+h1{
+    color: #FF0000;
+}
